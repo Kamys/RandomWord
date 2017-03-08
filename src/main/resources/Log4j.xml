@@ -19,12 +19,12 @@
     </appender>
 
     <logger name="com.github.kamys.randomWord">
-        <level value="trace"/>
+        <level value="DEBUG"/>
         <appender-ref ref="Console"/>
     </logger>
 
     <root>
-        <priority value="trace"/>
+        <priority value="DEBUG"/>
         <appender-ref ref="main" />
     </root>
 

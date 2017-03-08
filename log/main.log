@@ -1,8 +1,151 @@
-08.03.2017 14:00:40.772 [INFO ][main  ][Main                ] - Started. 
-08.03.2017 14:04:11.213 [INFO ][main  ][Main                ] - Started. 
-08.03.2017 14:04:35.758 [INFO ][main  ][Main                ] - Started. 
-08.03.2017 14:06:08.788 [INFO ][main  ][Main                ] - Started. 
-08.03.2017 14:06:38.871 [INFO ][main  ][Main                ] - Started. 
-08.03.2017 14:08:14.884 [INFO ][main  ][Main                ] - Started. 
-08.03.2017 14:08:41.204 [INFO ][main  ][Main                ] - Started. 
-08.03.2017 14:12:14.610 [INFO ][main  ][Main                ] - Started. 
+09.03.2017 00:40:50.501 [INFO ][main  ][Main                ] - Started. 
+09.03.2017 00:40:54.960 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1464 
+09.03.2017 00:40:54.961 [INFO ][ueue-0][RandomGenerator     ] - generate: result = d'ya 
+09.03.2017 00:40:55.611 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 414 
+09.03.2017 00:40:55.612 [INFO ][ueue-0][RandomGenerator     ] - generate: result = can 
+09.03.2017 00:40:55.857 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1514 
+09.03.2017 00:40:55.857 [INFO ][ueue-0][RandomGenerator     ] - generate: result = try 
+09.03.2017 00:40:56.055 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 2335 
+09.03.2017 00:40:56.056 [INFO ][ueue-0][RandomGenerator     ] - generate: result = very 
+09.03.2017 00:40:56.237 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1043 
+09.03.2017 00:40:56.238 [INFO ][ueue-0][RandomGenerator     ] - generate: result = how 
+09.03.2017 00:40:56.388 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 535 
+09.03.2017 00:40:56.388 [INFO ][ueue-0][RandomGenerator     ] - generate: result = it's 
+09.03.2017 00:40:56.547 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 166 
+09.03.2017 00:40:56.547 [INFO ][ueue-0][RandomGenerator     ] - generate: result = 'Mr 
+09.03.2017 00:40:56.698 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 210 
+09.03.2017 00:40:56.699 [INFO ][ueue-0][RandomGenerator     ] - generate: result = issues, 
+09.03.2017 00:40:56.849 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 466 
+09.03.2017 00:40:56.850 [INFO ][ueue-0][RandomGenerator     ] - generate: result = a 
+09.03.2017 00:40:58.745 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 2283 
+09.03.2017 00:40:58.746 [INFO ][ueue-0][RandomGenerator     ] - generate: result = Wh... 
+09.03.2017 00:40:58.929 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1732 
+09.03.2017 00:40:58.929 [INFO ][ueue-0][RandomGenerator     ] - generate: result = place 
+09.03.2017 00:40:59.095 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 2174 
+09.03.2017 00:40:59.095 [INFO ][ueue-0][RandomGenerator     ] - generate: result = How 
+09.03.2017 00:40:59.301 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1137 
+09.03.2017 00:40:59.305 [INFO ][ueue-0][RandomGenerator     ] - generate: result = an 
+09.03.2017 00:40:59.460 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 418 
+09.03.2017 00:40:59.461 [INFO ][ueue-0][RandomGenerator     ] - generate: result = flatness 
+09.03.2017 00:40:59.666 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1196 
+09.03.2017 00:40:59.667 [INFO ][ueue-0][RandomGenerator     ] - generate: result = his 
+09.03.2017 00:40:59.840 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1263 
+09.03.2017 00:40:59.841 [INFO ][ueue-0][RandomGenerator     ] - generate: result = fine. 
+09.03.2017 00:41:00.039 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 843 
+09.03.2017 00:41:00.040 [INFO ][ueue-0][RandomGenerator     ] - generate: result = your 
+09.03.2017 00:41:00.238 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1408 
+09.03.2017 00:41:00.238 [INFO ][ueue-0][RandomGenerator     ] - generate: result = say 
+09.03.2017 00:41:00.420 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1050 
+09.03.2017 00:41:00.421 [INFO ][ueue-0][RandomGenerator     ] - generate: result = going 
+09.03.2017 00:41:00.610 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1416 
+09.03.2017 00:41:00.611 [INFO ][ueue-0][RandomGenerator     ] - generate: result = right, 
+09.03.2017 00:41:00.809 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 67 
+09.03.2017 00:41:00.810 [INFO ][ueue-0][RandomGenerator     ] - generate: result = that's 
+09.03.2017 00:41:01.007 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1735 
+09.03.2017 00:41:01.008 [INFO ][ueue-0][RandomGenerator     ] - generate: result = mummy's..
+Thank 
+09.03.2017 00:41:01.221 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 906 
+09.03.2017 00:41:01.222 [INFO ][ueue-0][RandomGenerator     ] - generate: result = Ludwin's 
+09.03.2017 00:41:01.396 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1624 
+09.03.2017 00:41:01.397 [INFO ][ueue-0][RandomGenerator     ] - generate: result = Hello, 
+09.03.2017 00:41:01.594 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 2147 
+09.03.2017 00:41:01.595 [INFO ][ueue-0][RandomGenerator     ] - generate: result = I 
+09.03.2017 00:41:01.843 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 2276 
+09.03.2017 00:41:01.846 [INFO ][ueue-0][RandomGenerator     ] - generate: result = - 
+09.03.2017 00:41:02.038 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 657 
+09.03.2017 00:41:02.039 [INFO ][ueue-0][RandomGenerator     ] - generate: result = Alright, 
+09.03.2017 00:41:02.244 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 851 
+09.03.2017 00:41:02.245 [INFO ][ueue-0][RandomGenerator     ] - generate: result = something.
+Anyway, 
+09.03.2017 00:41:02.490 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1352 
+09.03.2017 00:41:02.491 [INFO ][ueue-0][RandomGenerator     ] - generate: result = time, 
+09.03.2017 00:41:02.657 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1781 
+09.03.2017 00:41:02.658 [INFO ][ueue-0][RandomGenerator     ] - generate: result = boy. 
+09.03.2017 00:41:02.871 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 434 
+09.03.2017 00:41:02.872 [INFO ][ueue-0][RandomGenerator     ] - generate: result = looks 
+09.03.2017 00:41:03.093 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1256 
+09.03.2017 00:41:03.094 [INFO ][ueue-0][RandomGenerator     ] - generate: result = I'm 
+09.03.2017 00:41:03.323 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 903 
+09.03.2017 00:41:03.323 [INFO ][ueue-0][RandomGenerator     ] - generate: result = ruined, 
+09.03.2017 00:41:03.530 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 2071 
+09.03.2017 00:41:03.533 [INFO ][ueue-0][RandomGenerator     ] - generate: result = right, 
+09.03.2017 00:41:03.744 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 144 
+09.03.2017 00:41:03.745 [INFO ][ueue-0][RandomGenerator     ] - generate: result = End
+No, 
+09.03.2017 00:41:03.934 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1603 
+09.03.2017 00:41:03.935 [INFO ][ueue-0][RandomGenerator     ] - generate: result = I 
+09.03.2017 00:41:04.363 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1920 
+09.03.2017 00:41:04.364 [INFO ][ueue-0][RandomGenerator     ] - generate: result = ago, 
+09.03.2017 00:41:04.601 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 2380 
+09.03.2017 00:41:04.601 [INFO ][ueue-0][RandomGenerator     ] - generate: result = so 
+09.03.2017 00:41:04.871 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 852 
+09.03.2017 00:41:04.871 [INFO ][ueue-0][RandomGenerator     ] - generate: result = they 
+09.03.2017 00:41:05.149 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1387 
+09.03.2017 00:41:05.150 [INFO ][ueue-0][RandomGenerator     ] - generate: result = we 
+09.03.2017 00:41:05.379 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 2121 
+09.03.2017 00:41:05.379 [INFO ][ueue-0][RandomGenerator     ] - generate: result = those 
+09.03.2017 00:41:05.585 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 2239 
+09.03.2017 00:41:05.585 [INFO ][ueue-0][RandomGenerator     ] - generate: result = here?
+I 
+09.03.2017 00:41:05.784 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 266 
+09.03.2017 00:41:05.784 [INFO ][ueue-0][RandomGenerator     ] - generate: result = Stone 
+09.03.2017 00:41:05.982 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 528 
+09.03.2017 00:41:05.982 [INFO ][ueue-0][RandomGenerator     ] - generate: result = anybody 
+09.03.2017 00:41:06.236 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 547 
+09.03.2017 00:41:06.237 [INFO ][ueue-0][RandomGenerator     ] - generate: result = God....
+No, 
+09.03.2017 00:41:06.426 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 2203 
+09.03.2017 00:41:06.427 [INFO ][ueue-0][RandomGenerator     ] - generate: result = y'know 
+09.03.2017 00:41:06.650 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 938 
+09.03.2017 00:41:06.650 [INFO ][ueue-0][RandomGenerator     ] - generate: result = you, 
+09.03.2017 00:41:06.855 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 147 
+09.03.2017 00:41:06.857 [INFO ][ueue-0][RandomGenerator     ] - generate: result = it 
+09.03.2017 00:41:07.053 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 2325 
+09.03.2017 00:41:07.053 [INFO ][ueue-0][RandomGenerator     ] - generate: result = no, 
+09.03.2017 00:41:07.260 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 2002 
+09.03.2017 00:41:07.260 [INFO ][ueue-0][RandomGenerator     ] - generate: result = - 
+09.03.2017 00:41:07.458 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 2038 
+09.03.2017 00:41:07.458 [INFO ][ueue-0][RandomGenerator     ] - generate: result = wait 
+09.03.2017 00:41:07.672 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 2256 
+09.03.2017 00:41:07.672 [INFO ][ueue-0][RandomGenerator     ] - generate: result = head 
+09.03.2017 00:41:07.847 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1753 
+09.03.2017 00:41:07.847 [INFO ][ueue-0][RandomGenerator     ] - generate: result = Give 
+09.03.2017 00:41:08.022 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 73 
+09.03.2017 00:41:08.022 [INFO ][ueue-0][RandomGenerator     ] - generate: result = ticket.
+The 
+09.03.2017 00:41:08.196 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1280 
+09.03.2017 00:41:08.196 [INFO ][ueue-0][RandomGenerator     ] - generate: result = news, 
+09.03.2017 00:41:08.364 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 97 
+09.03.2017 00:41:08.364 [INFO ][ueue-0][RandomGenerator     ] - generate: result = mean, 
+09.03.2017 00:41:08.531 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 669 
+09.03.2017 00:41:08.531 [INFO ][ueue-0][RandomGenerator     ] - generate: result = lost 
+09.03.2017 00:41:08.689 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 833 
+09.03.2017 00:41:08.689 [INFO ][ueue-0][RandomGenerator     ] - generate: result = by 
+09.03.2017 00:41:08.856 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1608 
+09.03.2017 00:41:08.856 [INFO ][ueue-0][RandomGenerator     ] - generate: result = was 
+09.03.2017 00:41:09.015 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 2293 
+09.03.2017 00:41:09.015 [INFO ][ueue-0][RandomGenerator     ] - generate: result = welling 
+09.03.2017 00:41:09.324 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1703 
+09.03.2017 00:41:09.324 [INFO ][ueue-0][RandomGenerator     ] - generate: result = gagging.
+Be 
+09.03.2017 00:41:09.530 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 824 
+09.03.2017 00:41:09.532 [INFO ][ueue-0][RandomGenerator     ] - generate: result = so 
+09.03.2017 00:41:09.697 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1639 
+09.03.2017 00:41:09.697 [INFO ][ueue-0][RandomGenerator     ] - generate: result = Oberman. 
+09.03.2017 00:41:09.888 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 257 
+09.03.2017 00:41:09.889 [INFO ][ueue-0][RandomGenerator     ] - generate: result = - 
+09.03.2017 00:41:10.102 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1002 
+09.03.2017 00:41:10.102 [INFO ][ueue-0][RandomGenerator     ] - generate: result = that...
+- 
+09.03.2017 00:41:10.292 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1048 
+09.03.2017 00:41:10.292 [INFO ][ueue-0][RandomGenerator     ] - generate: result = this 
+09.03.2017 00:41:10.459 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 432 
+09.03.2017 00:41:10.459 [INFO ][ueue-0][RandomGenerator     ] - generate: result = The 
+09.03.2017 00:41:10.681 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1960 
+09.03.2017 00:41:10.681 [INFO ][ueue-0][RandomGenerator     ] - generate: result = um,
+I 
+09.03.2017 00:41:10.864 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 1802 
+09.03.2017 00:41:10.864 [INFO ][ueue-0][RandomGenerator     ] - generate: result = Julia?
+- 
+09.03.2017 00:41:11.015 [DEBUG][ueue-0][RandomGenerator     ] - generate: length = 2386 randomIndex = 726 
+09.03.2017 00:41:11.015 [INFO ][ueue-0][RandomGenerator     ] - generate: result = you 

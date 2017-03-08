@@ -14,7 +14,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * Use for collaboration TextSelector and TextSelectorView.
+ * Use for collaboration {@link TextSelector} and {@link TextSelectorView}.
  */
 public class TextSelectorController extends Controller<TextSelector, TextSelectorView> {
     private static final Logger LOGGER = Logger.getLogger(TextSelectorController.class);

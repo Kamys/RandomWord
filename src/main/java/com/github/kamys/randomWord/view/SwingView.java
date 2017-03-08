@@ -21,6 +21,7 @@ public abstract class SwingView implements View {
      * Show model in JFrame.
      */
     public void show() {
+        frame.getContentPane().removeAll();
         frame.setTitle(title);
         settingDataInFrame(frame);
         showFrame();
