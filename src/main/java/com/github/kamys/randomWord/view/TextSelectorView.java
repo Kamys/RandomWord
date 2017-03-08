@@ -1,42 +1,33 @@
 package com.github.kamys.randomWord.view;
 
 import javax.swing.*;
-import javax.swing.filechooser.FileNameExtensionFilter;
 import java.awt.*;
-import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.io.File;
 
 /**
  * Use for to display {@link com.github.kamys.randomWord.model.TextSelector}.
  */
 public class TextSelectorView extends SwingView {
 
-    private final String text = "Please select text!";
-    private File selectedFile;
+    private ActionListener listeners;
 
-    public File getSelectedFile() {
-        return selectedFile;
+    public ActionListener getListeners() {
+        return listeners;
     }
 
-    public void setSelectedFile(File selectedFile) {
-        this.selectedFile = selectedFile;
+    public void setListeners(ActionListener listeners) {
+        this.listeners = listeners;
     }
 
     void settingDataInFrame(final JFrame frame) {
-        JButton button = new JButton("Select text");
-        button.addActionListener(new TextSelectListener());
-        JLabel label = new JLabel(text, SwingConstants.CENTER);
-        frame.add(label, BorderLayout.CENTER);
-        frame.add(button, BorderLayout.SOUTH);
-    }
+        final String textForButton = "Select textForLabel";
+        final String textForLabel = "Please select textForLabel!";
 
-    private class TextSelectListener implements ActionListener {
-        public void actionPerformed(ActionEvent e) {
-            JFileChooser chooser = new JFileChooser();
-            chooser.setFileFilter(new FileNameExtensionFilter("Txt file","txt"));
-            chooser.showOpenDialog(null);
-            selectedFile = chooser.getSelectedFile();
-        }
+        JButton button = new JButton(textForButton);
+        button.addActionListener(listeners);
+        frame.add(button, BorderLayout.SOUTH);
+
+        JLabel label = new JLabel(textForLabel, SwingConstants.CENTER);
+        frame.add(label, BorderLayout.CENTER);
     }
 }

@@ -12,20 +12,14 @@ import java.io.IOException;
 public class TextSelector {
     private static final Logger LOGGER = Logger.getLogger(TextSelector.class);
 
-    public void select(String path) throws IOException {
-        File file = new File(path);
-        if (!file.canRead()) {
-            failed(file);
-            return;
-        }else {
-            FileUtils.readFileToString(file,"UTF-8");
+    public String select(final File file) throws IOException {
+        if (file.canRead()) {
+            return FileUtils.readFileToString(file, "UTF-8");
+        } else {
+            IOException ioException = new IOException(
+                    "Failed! Not can read file: " + file.getAbsolutePath());
+            LOGGER.error(ioException);
+            throw ioException;
         }
-
-    }
-
-    private void failed(File file) throws IOException {
-        IOException ioException = new IOException("Failed! Not can read file: " + file.getAbsolutePath());
-        LOGGER.error(ioException);
-        throw ioException;
     }
 }

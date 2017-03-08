@@ -26,6 +26,20 @@ public abstract class SwingView implements View {
         showFrame();
     }
 
+    @Override
+    public void showError(String error) {
+        JOptionPane.showMessageDialog(frame,
+                error,
+                "Failed",
+                JOptionPane.ERROR_MESSAGE);
+    }
+
+    @Override
+    public void hide() {
+        frame.setVisible(false);
+        frame.dispose();
+    }
+
     /**
      * Use for sitting JFrame before show.
      */

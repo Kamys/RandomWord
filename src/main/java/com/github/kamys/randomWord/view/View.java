@@ -5,4 +5,6 @@ package com.github.kamys.randomWord.view;
  */
 public interface View {
     void show();
+    void hide();
+    void showError(String error);
 }

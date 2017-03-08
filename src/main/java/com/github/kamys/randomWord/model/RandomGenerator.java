@@ -9,8 +9,14 @@ import java.util.Random;
  */
 public class RandomGenerator {
     private static final Logger LOGGER = Logger.getLogger(RandomGenerator.class);
+    private final String text;
 
-    public String generate(String text) {
+    public RandomGenerator(String text) {
+        this.text = text;
+        LOGGER.trace("Create txt = "+text);
+    }
+
+    public String generate() {
         LOGGER.trace("generate: " + text);
         String[] split = text.split(" ");
         final int length = split.length;

@@ -34,9 +34,9 @@ public abstract class Controller<M, V extends View> {
     }
 
     public void update() {
-        settingValue(view, model);
+        settingValue();
         view.show();
     }
 
-    protected abstract void settingValue(V view, M model);
+    protected abstract void settingValue();
 }
